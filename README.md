@@ -14,6 +14,12 @@ Create a .env file and put your credentials
 Install Dependencies
 ### `npm install`
 
+Run
+### `npm start`
+
+Dev mode
+### `npm run dev`
+
 
 ## App
 The apps run on PORT that you declare on the .env file
