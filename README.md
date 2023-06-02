@@ -2,7 +2,7 @@
 
 
 ## Configuration
-On the .env file we need to add MapBox Key
+Create a .env file and put your credentials
 ### `PORT=<YOUR-PORT>`
 ### `USER_DB=<YOUR-USER_UD>`
 ### `HOST=<YOUR-HOST>`
