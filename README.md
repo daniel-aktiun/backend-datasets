@@ -3,13 +3,11 @@
 
 ## Configuration
 On the .env file we need to add MapBox Key
-### `
-  PORT=
-  USER_DB=
-  HOST=
-  DATABASE=
-  PASSWORD=
-`
+### `PORT=`
+### `USER_DB=`
+### `HOST=`
+### `DATABASE=`
+### `PASSWORD=`
 
 ## Available Scripts
 
